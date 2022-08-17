@@ -2,14 +2,15 @@
 
  <img src="https://raw.githubusercontent.com/gist/siomar/00fd057691f0ac1eca24add0efa5b330/raw/a267f5735b235a3f2630a452a6826abb3acaf10b/githubprofile.svg"  width="100%" alt="HTML"/>
 
-### Olá, sou o Siomar Velloso desenvolvedor Front-end 👋
+### Hello
+### I'm Siomar Velloso 👋
 
 
-- 🔭 Hoje trabalho com Front-end Web/Mobile
-- 📫  Contate-me pelo e-mail: siomarjr@gmail.com
-- 🌱 Estudando Dart/Flutter
+- 🔭 Today I work with Front-end Web/Mobile
+- 📫 Contact for e-mail: siomarjr@gmail.com
+- 🌱 Studying javascript/swift/dart
 
-## Linguagens e ferramentas
+## Languages and tools
 
  <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
@@ -27,7 +28,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="40" alt="HTML"/>
   </div>
   
-  ## Dados
+  ## Data
 <div align="center">
   <a href="https://github.com/siomar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siomar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
